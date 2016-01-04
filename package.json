@@ -1,0 +1,23 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "A Yelp clone for the Web Dev Bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/probertson96/yelp-camp.git"
+  },
+  "author": "Patrick Robertson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/probertson96/yelp-camp/issues"
+  },
+  "homepage": "https://github.com/probertson96/yelp-camp#readme",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
